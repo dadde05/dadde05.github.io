@@ -9,11 +9,3 @@ background-size: cover;
 }
 
 
-body {
-background: url('');
-background-repeat: no-repeat;
-background-position: 0 0;
--moz-background-size: cover;
--webkit-background-size: cover;
-background-size: cover;
-}
