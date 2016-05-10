@@ -1,1 +1,11 @@
-http://www.astropa.unipa.it/sole.jpg
+
+
+
+body {
+background: url('http://www.astropa.unipa.it/sole.jpg');
+background-repeat: no-repeat;
+background-position: 0 0;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+}
