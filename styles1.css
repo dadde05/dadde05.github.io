@@ -1,11 +1,6 @@
-
-
-
 body {
-background: url('http://1.bp.blogspot.com/-EspxAjBPFE4/T3NMA97RVoI/AAAAAAAACIM/TNDmv1QqtsI/s1600/752-1601.jpg');
+background-image: url(sole.jpeg');
 background-repeat: no-repeat;
-background-position: 0 0;
--moz-background-size: cover;
--webkit-background-size: cover;
-background-size: cover;
+width: 100%;
+height. 100%;
 }
