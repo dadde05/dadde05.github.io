@@ -24,12 +24,10 @@ background-size: cover;
   float: left;
 }
 
-#wrap ul li a {
-  display: block;
-  padding: 10px 20px;
-  background: #eee;
-  color: #333;
-  text-decoration: none;
+#wrap ul li a: hover {
+  background: #333;
+  color: #eee;
+  
 }
 
 #wrap ul li ul {
