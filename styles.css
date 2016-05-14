@@ -44,6 +44,10 @@ background-size: cover;
   left: 0;
 }
 
+#wrap ul li: hover ul {
+  display: block;
+}
+
 #wrap ul li ul li {
   float: none;
 white-space: nowrap;
