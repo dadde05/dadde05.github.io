@@ -19,6 +19,11 @@ background-size: cover;
   margin: 0 auto;
 }
 
+#wrap ul li {
+  position: relative;
+  float: left;
+}
+
 #wrap ul li a {
   display: block;
   padding: 10px 20px;
