@@ -39,6 +39,7 @@ background-size: cover;
 }
 
 #wrap ul li ul li {
+  float: none;
 white-space: nowrap;
 }
 
