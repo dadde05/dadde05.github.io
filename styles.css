@@ -12,7 +12,7 @@ background-size: cover;
 #wrap {
   width: 100%;
   margin: 0 auto;
-  background-color #eee; 
+  background-color #eee;
 }
 
 #wrap ul li {
@@ -49,6 +49,7 @@ background-size: cover;
   float: none;
   white-space: nowrap;
 }
+
 
 
 
