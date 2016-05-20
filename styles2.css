@@ -3,3 +3,7 @@ background-image: url(http://previews.123rf.com/images/_ig0rzh_/_ig0rzh_1210/_ig
 background-repeat: no-repeat;
 background-size: 100% 100%;
 }
+#sfondo {
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
