@@ -1,8 +1,53 @@
 li {list-style: none;}
-
-
 body {
-background-image: url(https://versounmondonuovo.files.wordpress.com/2012/05/deep-impact.jpg);
+background: url('http://www.plef.org/wp-content/uploads/2013/11/1spazio_pianeta_terra_nuvole1.jpg');
 background-repeat: no-repeat;
-background-size: 100% 100%;
+background-position: 0 0;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+  padding: 0;
+  margin: 0;
 }
+#wrap {
+  width: 100%;
+  margin: 0 auto;
+  background-color #eee;
+}
+
+#wrap ul li {
+  position: relative;
+  float: left;
+}
+
+#wrap ul li a {
+  display: block;
+  padding: 10px 20px;
+  background: #eee;
+  color: #333;
+  text-decoration: none;
+}
+
+#wrap ul li a:hover {
+  background: #333;
+  color: #eee;
+}
+
+
+#wrap ul li ul {
+  display: none;
+  position: absolute;
+  top: 38px;
+  left: 0;
+}
+
+#wrap ul li:hover ul {
+  display: block;
+}
+
+#wrap ul li ul li {
+  float: none;
+  white-space: nowrap;
+}
+
+
